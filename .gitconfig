@@ -1,7 +1,6 @@
 [user]
 	name = David Vollandt
 	email = vollandt@gmail.com
-	signingKey = 8B060F8B9EB395614A669F2A90ACE942EB90C3DD
 [diff]
 	tool = meld
 [merge]
